@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144705129084",
+    "project_id": "mobile-firebase-61857",
+    "storage_bucket": "mobile-firebase-61857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144705129084:android:90629beb9a883bacae57f9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_utsmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMJhkWWXNcLhgQnD82nGhZ8G5ustfKFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
